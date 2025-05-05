@@ -1,7 +1,5 @@
 # UiPath-Experiment-4
 # Date:05/05/2025
-# Register No.:212224040140
-# Name:john pall M
 # AIM:
 Read data from an Excel file and write it to another Excel file.
 
